@@ -8,4 +8,5 @@ I am Afrânio Alves, **Student of Computer Engineering**, I am passionate about 
 
 
 
-https://github-readme-stats.vercel.app/api?username=Afranioalves
+
+![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=Afranioalves )
