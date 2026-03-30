@@ -83,12 +83,12 @@ I'm **Afrânio Alves**, a Computer Engineering student passionate about technolo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afranioalves&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afranioalves&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="github/metrics-stats.svg" alt="GitHub Stats" />
+  <img src="github/metrics-languages.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Afranioalves&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Afranioalves&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
 </div>
 
 ###
@@ -96,7 +96,7 @@ I'm **Afrânio Alves**, a Computer Engineering student passionate about technolo
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Afranioalves&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+  <img src="github/metrics-achievements.svg" alt="GitHub Achievements" />
 </div>
 
 ###
