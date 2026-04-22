@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Afrânio%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0466c8&height=180&section=header&text=Afrânio%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 ###
@@ -120,5 +120,5 @@ I'm **Afrânio Alves**, a Computer Engineering student passionate about technolo
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0466c8&height=100&section=footer" width="100%" />
 </div>
