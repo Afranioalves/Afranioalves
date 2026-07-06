@@ -23,9 +23,8 @@
 
 ## 👨‍💻 About Me
 
-I'm **Afrânio Alves**, a Computer Engineering student passionate about technology and problem-solving. I love building scalable applications and turning complex logical challenges into elegant code solutions.
+I'm **Afrânio Alves**,  I love building scalable applications and turning complex logical challenges into elegant code solutions.
 
-- 🎓 Studying **Computer Engineering**
 - 💡 Passionate about **Full-Stack Development** and **Mobile Applications**
 - 🔍 Always learning new technologies and best practices
 - 🤝 Open to collaborating on interesting projects
